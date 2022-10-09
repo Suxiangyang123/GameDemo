@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  m_GroupName: Game
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4ff3a16a4d12ff74ab21fa5fda07e55c
+  m_SerializeEntries:
+  - m_GUID: 4ebca8094331cac4eb5d7b5ca78a0b6c
+    m_Address: Assets/Prefabs/UI/ItemPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ItemPanel
+  - m_GUID: 87c595c50ca6624478ef8b871aac5d7d
+    m_Address: Assets/Prefabs/UI/MainUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MainUI
+  - m_GUID: dd828bcff48e4c24bba489c557a61349
+    m_Address: Assets/Animator/PlayerAnimatorController.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerAnimatorController
+  - m_GUID: 1c9964881a89f5c41a297dd67335674f
+    m_Address: Assets/Animator/PlayerAnimatorControllerFree.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerAnimatorControllerFree
+  - m_GUID: e5030f3ba2bdc1f449e912f49f361c76
+    m_Address: Assets/Prefabs/Buildings/Celling.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Celling
+  - m_GUID: 726c9a3fa411e114f9274fa6ec1f7e71
+    m_Address: Assets/Prefabs/Buildings/End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - End
+  - m_GUID: d6712e931d6baeb4cb6ce48c4790b6bf
+    m_Address: Assets/Prefabs/Buildings/Pillar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pillar
+  - m_GUID: f385b66a6f82a1a49aeb5eabee3ff57b
+    m_Address: Assets/Prefabs/Buildings/Start.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Start
+  - m_GUID: c2b8093177cfe48418ba653b2df84898
+    m_Address: Assets/Prefabs/Buildings/Wall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Wall
+  - m_GUID: f95025024bf9d9640be79c4d5d2aa74a
+    m_Address: Assets/Materials/Buildings/Building_Wood.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Wood
+  - m_GUID: d22a30d2f01dba544a83283ddc4e66a7
+    m_Address: Assets/Materials/Buildings/Building_Stone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stone
+  - m_GUID: cc8e0f36e32fcf640b1e733f755715d2
+    m_Address: Assets/Materials/Buildings/Building_Metal.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Metal
+  - m_GUID: 0636c539834a4f644a72eb02b0230ab4
+    m_Address: Assets/Prefabs/UI/PausePanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PausePanel
+  - m_GUID: 0b2ea817d1965d4479c8ab0c7531fa46
+    m_Address: Assets/Prefabs/UI/SavePanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SavePanel
+  - m_GUID: 84a819aeebb33a8459ea63c5dd0cea8d
+    m_Address: Assets/Jsons/item.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3775dccd845843b4d89c9b9dea95b4ff
+    m_Address: Assets/Sprites/atlas_item.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5aa698061ab99d43b59abb793351c5a
+    m_Address: Assets/Prefabs/UI/ItemCell.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b0e4fe6b1289eb47b12ad07f56d579c
+    m_Address: Assets/Prefabs/Buildings/Spike.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spike
+  - m_GUID: 969946f89c5157140ad53fa7779af7d5
+    m_Address: Assets/Prefabs/UI/FloatTip.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FloatTip
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 10992ce0bcf53c14cb22078daa2b0ec1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5f62777dc01274947ad7bf67d0c1ce68, type: 2}
+    - {fileID: 11400000, guid: 7fd22de54bcd9d340ac2c6140e455a28, type: 2}

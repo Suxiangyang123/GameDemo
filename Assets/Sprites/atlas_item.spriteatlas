@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_item
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5266d4fd9e79de843b5e06bc7b05e163, type: 3}
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4ba9d2f006c2b3740b43fe6834613624, type: 3}
+  - {fileID: 21300000, guid: 300650a2b7b25ca46bb1f413e1cb28fb, type: 3}
+  - {fileID: 21300000, guid: 48a33a26997a6244681dd912aa61f93b, type: 3}
+  - {fileID: 21300000, guid: c8d86ac8f6e2fb144b566e9b53b7cbbf, type: 3}
+  - {fileID: 21300000, guid: 95269f3a16043d9458585fd5d0a93fa8, type: 3}
+  - {fileID: 21300000, guid: 080f11da3e217534ca9d8bf90acda6f7, type: 3}
+  - {fileID: 21300000, guid: ce2987fa1a174f84cac4d1531241088a, type: 3}
+  - {fileID: 21300000, guid: 8c0f8d9b5aa82fa40a0640effcaf9802, type: 3}
+  - {fileID: 21300000, guid: f98b7d7c655541745a39e3ddb8bc7ec1, type: 3}
+  - {fileID: 21300000, guid: 84cd8b4d6b694d74e91d5443b2a31e20, type: 3}
+  - {fileID: 21300000, guid: 6fcc77bfd96ea9b46bf2efb2ed2df272, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - wall_wood
+  - pillar_metal
+  - ceiling_metal
+  - pillar_wood
+  - wall_stone
+  - rawmeat
+  - wall_metal
+  - ceiling_wood
+  - ceiling_stone
+  - itemNull
+  - pillar_stone
+  m_RenderDataMap: {}
+  m_Tag: atlas_item
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

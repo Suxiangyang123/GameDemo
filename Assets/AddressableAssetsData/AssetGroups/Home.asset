@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Home
+  m_EditorClassIdentifier: 
+  m_GroupName: Home
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ca0ab8f17a6c7804c862914b5c606db9
+  m_SerializeEntries:
+  - m_GUID: 0cb306bb6a6577b43bb1da7e365ddc44
+    m_Address: Assets/Prefabs/UI/HomeUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HomeUI
+  - m_GUID: f787a9d8e6bf9b84c84507dcc4f42eea
+    m_Address: Assets/Audio/audio_click.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a7d7cb150ba9a24bb27512776ed7fa0
+    m_Address: Assets/Audio/audio_die.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1af3109da9fe05842b424d6b99768f83
+    m_Address: Assets/Audio/battleBgm.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf71d5acc9502bd4a87802d131416c3b
+    m_Address: Assets/Audio/homeBgm.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 10992ce0bcf53c14cb22078daa2b0ec1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6e1deb1912d1e2045b3343b0b833d306, type: 2}
+    - {fileID: 11400000, guid: d1bc1c7345342d043b73f0bf38000ff8, type: 2}

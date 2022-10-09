@@ -1,0 +1,145 @@
+﻿{"data":[
+  {
+    "itemId": 1.0,
+    "detail": "木质天花板",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "ceiling_wood",
+    "mainType": 0.0,
+    "extra": "0*0"
+  },
+  {
+    "itemId": 2.0,
+    "detail": "石质天花板",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "ceiling_stone",
+    "mainType": 0.0,
+    "extra": "0*1"
+  },
+  {
+    "itemId": 3.0,
+    "detail": "金属天花板",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "ceiling_metal",
+    "mainType": 0.0,
+    "extra": "0*2"
+  },
+  {
+    "itemId": 4.0,
+    "detail": "木质柱子",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "pillar_wood",
+    "mainType": 0.0,
+    "extra": "1*0"
+  },
+  {
+    "itemId": 5.0,
+    "detail": "石质柱子",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "pillar_stone",
+    "mainType": 0.0,
+    "extra": "1*1"
+  },
+  {
+    "itemId": 6.0,
+    "detail": "金属柱子",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "pillar_metal",
+    "mainType": 0.0,
+    "extra": "1*2"
+  },
+  {
+    "itemId": 7.0,
+    "detail": "木质墙",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "wall_wood",
+    "mainType": 0.0,
+    "extra": "2*0"
+  },
+  {
+    "itemId": 8.0,
+    "detail": "石质墙",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "wall_stone",
+    "mainType": 0.0,
+    "extra": "2*1"
+  },
+  {
+    "itemId": 9.0,
+    "detail": "金属墙",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "wall_metal",
+    "mainType": 0.0,
+    "extra": "2*2"
+  },
+  {
+    "itemId": 10.0,
+    "detail": "起点",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 1.0,
+    "img": "start",
+    "mainType": 0.0,
+    "extra": "3*0"
+  },
+  {
+    "itemId": 11.0,
+    "detail": "终点",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 1.0,
+    "img": "end",
+    "mainType": 0.0,
+    "extra": "4*0"
+  },
+  {
+    "itemId": 12.0,
+    "detail": "地刺",
+    "creatable": true,
+    "weight": 1.0,
+    "spoilCd": 0.0,
+    "limit": 40.0,
+    "img": "spike",
+    "mainType": 0.0,
+    "extra": "5*0"
+  },
+  {
+    "itemId": 101.0,
+    "detail": "生肉",
+    "creatable": false,
+    "weight": 1.0,
+    "spoilCd": 10.0,
+    "limit": 40.0,
+    "img": "rawmeat",
+    "mainType": 1.0,
+    "extra": "1*100"
+  }
+]}
